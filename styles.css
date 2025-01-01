@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('./images1/rose.png') no-repeat;
+    background: url('rose.png') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -24,7 +24,6 @@ header{
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    /* background: pink; */
     display: flex;
     justify-content: space-between;
     align-content: center;
@@ -161,7 +160,7 @@ header{
 footer {
     background-color: #6e4c0d;
     color: white;
-    padding: 10px 0;
+    padding: 2px 0;
     position: fixed;
     bottom: 0;
     width: 100%;
