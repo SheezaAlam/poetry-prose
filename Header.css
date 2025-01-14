@@ -1,0 +1,22 @@
+/* Header.css */
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1.name {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.navigation a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1rem;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
