@@ -111,8 +111,3 @@ Contributions and feedback are welcome! Feel free to:
 ##  License
 
 This project is open-source under the **MIT License**—free to use, modify, and share.
-
-
-```
-
----
