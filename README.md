@@ -1,5 +1,5 @@
 
-## #*Poetry & Prose*
+## *Poetry & Prose*
 
 A clean and elegant **Poetry & Prose** web app that beautifully showcases literary works. Built initially with **HTML, CSS, and JavaScript**, and later upgraded to a component-based React version.
 
@@ -25,7 +25,7 @@ This project is a frontend interface for browsing and appreciating poetry and pr
 - **HTML5** – markup for structured content
 - **CSS3** – for styling with responsive design
 - **JavaScript** – interactive navigation and effects
-- **(Optional)** **React.js** – component-based architecture for maintainability
+- **React.js** – component-based architecture for maintainability
 
 ---
 
@@ -53,7 +53,11 @@ poetry-prose-react/
 
 ---
 
-##  Getting Started
+## Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)  
 
 ### Vanilla HTML/CSS/JS
 
@@ -108,15 +112,6 @@ Contributions and feedback are welcome! Feel free to:
 
 This project is open-source under the **MIT License**—free to use, modify, and share.
 
----
-
-
-```markdown
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
-````
 
 ```
 
